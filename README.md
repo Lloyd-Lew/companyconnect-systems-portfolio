@@ -73,6 +73,12 @@ The [Sales Team Share Guide](docs/sales-team-share-guide.md) matches a prospect�
 
 [**Use the Sales Team Share Guide →**](docs/sales-team-share-guide.md)
 
+## Engineering credibility, without overclaiming
+
+The [Capability Map](docs/capability-map.md) links each public capability statement to client-safe evidence and marks areas where a public technical showcase has not yet been established. The [Public and Private Repository Strategy](docs/public-private-strategy.md) explains the boundary between portfolio proof and confidential customer work. For active technical repositories, the [Lightweight GitHub Engineering Standard](docs/engineering-standard.md) defines the documentation, ownership, security, testing, and visibility baseline.
+
+[**Review the Capability Map →**](docs/capability-map.md)
+
 ## How we work
 
 1. **Discover and map.** We identify the commercial bottleneck, existing systems, data quality, and current handoffs.
