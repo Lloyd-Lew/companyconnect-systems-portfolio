@@ -59,7 +59,7 @@ The projects below describe recurring delivery patterns without exposing custome
 | **Grant and programme operations** | Applications, programme records, folders, project templates, data matching, and reporting | Better governance, faster coordination, lower duplicate-data risk |
 | **AI knowledge and document workflows** | Business documents, retrieval, AI actions, review steps, and system updates | Faster handling of unstructured work with human safeguards |
 
-For the delivery method behind these patterns, see the [implementation process](docs/implementation-process.md). For the decision guide that helps turn a business problem into the right engagement, see [solution menu](docs/solution-menu.md).
+For the delivery method behind these patterns, see the [implementation process](docs/implementation-process.md). For the decision guide that helps turn a business problem into the right engagement, see the [solution menu](docs/solution-menu.md). The repeatable sales, SEO, answer-engine, and GitHub improvement system is documented in the [CompanyConnect Growth Loop](docs/growth-loop.md).
 
 ## How we work
 
