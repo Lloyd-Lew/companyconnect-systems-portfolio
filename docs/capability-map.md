@@ -4,13 +4,13 @@ This map separates what CompanyConnect.Tech can show safely in public from capab
 
 | Capability | Client-safe public evidence | What a prospective buyer can safely conclude | Evidence status |
 | --- | --- | --- | --- |
-| CRM and revenue operations | Lead-to-quote delivery pattern, problem map, package routes | We design CRM ownership, handoffs, pipeline visibility, and follow-up systems around business outcomes. | Demonstrated |
-| Workflow automation | Implementation process, workflow delivery patterns, sales-team guide | We design practical automation with ownership, exception paths, review, and measurement. | Demonstrated |
+| CRM and revenue operations | [Runnable Lead-to-Quote Automation Demonstrator](https://github.com/Lloyd-Lew/lead-to-quote-automation-demo), lead-to-quote delivery pattern, problem map, package routes | We design CRM ownership, handoffs, pipeline visibility, and follow-up systems around business outcomes. | Demonstrated with runnable API evidence |
+| Workflow automation | [Runnable Lead-to-Quote Automation Demonstrator](https://github.com/Lloyd-Lew/lead-to-quote-automation-demo), implementation process, workflow delivery patterns, sales-team guide | We design practical automation with ownership, exception paths, review, and measurement. | Demonstrated with runnable API evidence |
 | Integrations and data movement | Quote-to-cash and connected-operations patterns | We connect operational tools where disconnected data creates re-entry, delay, or poor visibility. | Demonstrated |
 | Dashboards and reporting | Reporting delivery pattern and measurement framework | We build leadership-ready operational visibility around the measures that matter. | Demonstrated |
 | AI-enabled operations | AI document and knowledge workflow pattern, safeguard guidance | We apply AI to bounded operational work with human review, escalation, and accountable ownership. | Demonstrated |
 | monday.com and Make-based operations | Public portfolio scope and working-method documentation | We work with practical business-operation platforms and integration patterns. | Demonstrated at portfolio level |
-| Full-stack applications and internal platforms | No public source repository or runnable demonstrator in this account | A public technical showcase is not yet available through GitHub. | Evidence required |
+| Backend applications and internal automation services | [Lead-to-Quote Automation Demonstrator](https://github.com/Lloyd-Lew/lead-to-quote-automation-demo) with source, architecture, API tests, CI, security controls, and release | We can demonstrate a maintainable TypeScript API service for a client-safe operational workflow. | Demonstrated |
 | AI agents and multi-agent systems | No public source repository or runnable demonstrator in this account | A public technical showcase is not yet available through GitHub. | Evidence required |
 | WordPress or custom web development | No public source repository or client-safe code showcase in this account | A public technical showcase is not yet available through GitHub. | Evidence required |
 | DevOps, payments, mobile, or enterprise infrastructure | No public source repository or independently inspectable artefact in this account | Do not claim GitHub proof for these areas until evidence exists. | Evidence required |

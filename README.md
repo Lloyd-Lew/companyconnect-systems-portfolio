@@ -75,9 +75,13 @@ The [Sales Team Share Guide](docs/sales-team-share-guide.md) matches a prospect�
 
 ## Engineering credibility, without overclaiming
 
+The [Lead-to-Quote Automation Demonstrator](https://github.com/Lloyd-Lew/lead-to-quote-automation-demo) is the complementary technical proof layer: a runnable, client-safe TypeScript API with validation, modular workflow logic, API tests, CI, dependency security checks, branch safeguards, and a stable release. It demonstrates how a lead can move through qualification, CRM-style record creation, next-action recommendation, quote preparation, and structured audit logging without exposing client systems.
+
 The [Capability Map](docs/capability-map.md) links each public capability statement to client-safe evidence and marks areas where a public technical showcase has not yet been established. The [Public and Private Repository Strategy](docs/public-private-strategy.md) explains the boundary between portfolio proof and confidential customer work. For active technical repositories, the [Lightweight GitHub Engineering Standard](docs/engineering-standard.md) defines the documentation, ownership, security, testing, and visibility baseline.
 
 [**Review the Capability Map →**](docs/capability-map.md)
+
+[**Inspect the Runnable Technical Demonstrator →**](https://github.com/Lloyd-Lew/lead-to-quote-automation-demo)
 
 ## How we work
 

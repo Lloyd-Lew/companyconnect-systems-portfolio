@@ -11,6 +11,7 @@ This public portfolio is a proof and education asset. Use it to give a prospecti
 | “We know something is wrong, but we are not sure where to begin.” | [Solution menu](solution-menu.md) and [AI Business Audit](https://companyconnect.tech/ai-audit/) | Position the audit as the route to a prioritised, evidence-based roadmap. |
 | “How will you deliver this without disrupting the team?” | [Implementation process](implementation-process.md) | Discuss the current process owner, constraints, and success measure. |
 | “Can you show the kind of systems you connect?” | [Representative delivery patterns](../README.md#representative-delivery-patterns) | Explain the closest relevant pattern without sharing client-specific configurations. |
+| “Can your team actually engineer and test this?” | [Lead-to-Quote Automation Demonstrator](https://github.com/Lloyd-Lew/lead-to-quote-automation-demo) | Position it as a client-safe technical demonstration of validation, workflow orchestration, API tests, CI, and security practice—not as a customer system. |
 | “How do you approach AI safely?” | [AI-enabled operations pattern](../README.md#representative-delivery-patterns) | Clarify the use case, human review, data sensitivity, and escalation path before suggesting a solution. |
 
 ## Approved share copy
@@ -26,6 +27,10 @@ This public portfolio is a proof and education asset. Use it to give a prospecti
 ### Referral-partner introduction
 
 > I am introducing you to CompanyConnect.Tech because they focus on the systems layer behind growth: CRM ownership, workflow automation, connected tools, reliable reporting, and practical AI with safeguards. Their [public portfolio](https://github.com/Lloyd-Lew/companyconnect-systems-portfolio) gives a concise overview before you decide whether a strategy conversation makes sense.
+
+### Technical buyer or CTO follow-up
+
+> For a look at how we engineer the systems behind these workflows, this [client-safe Lead-to-Quote Automation Demonstrator](https://github.com/Lloyd-Lew/lead-to-quote-automation-demo) includes runnable TypeScript code, architecture, API tests, CI, security controls, and a release. It uses only synthetic data and does not represent a customer implementation.
 
 ## Guardrails for sales conversations
 
