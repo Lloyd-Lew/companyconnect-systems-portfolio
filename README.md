@@ -67,6 +67,12 @@ If you are considering a CRM, workflow, integration, dashboard, or AI operations
 
 [**Open the Operational Bottleneck Brief →**](templates/operational-bottleneck-brief.md)
 
+## Share this portfolio with the right context
+
+The [Sales Team Share Guide](docs/sales-team-share-guide.md) matches a prospect’s question to the most useful public resource, provides concise approved share copy, and preserves the boundary between client-safe proof and confidential implementation detail.
+
+[**Use the Sales Team Share Guide →**](docs/sales-team-share-guide.md)
+
 ## How we work
 
 1. **Discover and map.** We identify the commercial bottleneck, existing systems, data quality, and current handoffs.
