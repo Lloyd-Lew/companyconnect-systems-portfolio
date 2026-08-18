@@ -75,13 +75,17 @@ The [Sales Team Share Guide](docs/sales-team-share-guide.md) matches a prospect�
 
 ## Engineering credibility, without overclaiming
 
-The [Lead-to-Quote Automation Demonstrator](https://github.com/Lloyd-Lew/lead-to-quote-automation-demo) is the complementary technical proof layer: a runnable, client-safe TypeScript API with validation, modular workflow logic, API tests, CI, dependency security checks, branch safeguards, and a stable release. It demonstrates how a lead can move through qualification, CRM-style record creation, next-action recommendation, quote preparation, and structured audit logging without exposing client systems.
+The [CompanyConnect Operations Blueprint](https://github.com/Lloyd-Lew/companyconnect-operations-blueprint) is the flagship technical proof layer: a runnable, client-safe TypeScript reference system for synthetic lead intake, qualification, CRM-style opportunity, quote, approval, onboarding, operations, invoice trigger, support disposition, KPI snapshots, and structured audit events. It demonstrates idempotency, lifecycle controls, retry-ready failure handling, human escalation, API contracts, tests, CI, CodeQL, dependency controls, and explicit production limitations without exposing client systems.
+
+The focused [Lead-to-Quote Automation Demonstrator](https://github.com/Lloyd-Lew/lead-to-quote-automation-demo) complements the flagship with an inspectable TypeScript API for validated qualification, CRM-style record creation, next-action recommendation, quote preparation, and structured audit logging. The [CompanyConnect Engineering Hub](https://lloyd-lew.github.io/companyconnect-engineering-hub/) connects the commercial proof, runnable references, architecture, technical trust route, and evidence-linked answers for technical buyers.
 
 The [Capability Map](docs/capability-map.md) links each public capability statement to client-safe evidence and marks areas where a public technical showcase has not yet been established. The [Public and Private Repository Strategy](docs/public-private-strategy.md) explains the boundary between portfolio proof and confidential customer work. For active technical repositories, the [Lightweight GitHub Engineering Standard](docs/engineering-standard.md) defines the documentation, ownership, security, testing, and visibility baseline.
 
 [**Review the Capability Map →**](docs/capability-map.md)
 
 [**Inspect the Runnable Technical Demonstrator →**](https://github.com/Lloyd-Lew/lead-to-quote-automation-demo)
+
+[**Review the Engineering Proof Index →**](docs/engineering-proof-index.md)
 
 ## How we work
 
