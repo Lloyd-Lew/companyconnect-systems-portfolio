@@ -28,6 +28,8 @@ flowchart LR
     D --> N
 ```
 
+A reusable version of the process is available as [Mermaid source](companyconnect-growth-loop.mmd) and as a [rendered PNG](companyconnect-growth-loop.png).
+
 ## The loop in practice
 
 | Stage | Owner action | Output | Quality question |

@@ -1,0 +1,33 @@
+flowchart LR
+    A[Capture buyer and client signals] --> B[Prioritise one high-value question]
+    B --> C[Build or document original evidence]
+    C --> D{Privacy and accuracy gate}
+    D -- Client permission or redaction needed --> E[Sanitise, anonymise, or hold]
+    E --> D
+    D -- Approved --> F[Publish focused website page or case study]
+    F --> G[Create concise GitHub portfolio summary]
+    G --> H[Link matching service, package, or next action]
+    H --> I[Distribute through relevant channels]
+    I --> J[Measure visibility, quality, and conversion]
+    J --> K[Improve content, offer language, and internal process]
+    K --> A
+
+    subgraph Evidence_Standards[Evidence standards]
+        L[First-hand delivery experience]
+        M[Clear entities, scope, and outcomes]
+        N[No customer credentials or confidential data]
+    end
+
+    C -. supports .-> L
+    C -. supports .-> M
+    D -. enforces .-> N
+
+    classDef core fill:#0f766e,color:#ffffff,stroke:#115e59,stroke-width:2px;
+    classDef gate fill:#f59e0b,color:#111827,stroke:#b45309,stroke-width:2px;
+    classDef safe fill:#dcfce7,color:#14532d,stroke:#16a34a,stroke-width:2px;
+    classDef standard fill:#eff6ff,color:#1e3a8a,stroke:#2563eb,stroke-width:1px;
+
+    class A,B,C,F,G,H,I,J,K core;
+    class D gate;
+    class E safe;
+    class L,M,N standard;
