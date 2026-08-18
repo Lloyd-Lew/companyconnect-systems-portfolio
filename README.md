@@ -61,6 +61,12 @@ The projects below describe recurring delivery patterns without exposing custome
 
 For the delivery method behind these patterns, see the [implementation process](docs/implementation-process.md). For the decision guide that helps turn a business problem into the right engagement, see the [solution menu](docs/solution-menu.md). The repeatable sales, SEO, answer-engine, and GitHub improvement system is documented in the [CompanyConnect Growth Loop](docs/growth-loop.md).
 
+## Prepare for a useful strategy call
+
+If you are considering a CRM, workflow, integration, dashboard, or AI operations project, the most useful starting point is a clear description of the bottleneck—not a list of software features. The [Operational Bottleneck Brief](templates/operational-bottleneck-brief.md) is a short, client-safe worksheet that helps identify the process, cost, tools, ownership, and measure worth discussing first.
+
+[**Open the Operational Bottleneck Brief →**](templates/operational-bottleneck-brief.md)
+
 ## How we work
 
 1. **Discover and map.** We identify the commercial bottleneck, existing systems, data quality, and current handoffs.
@@ -99,4 +105,4 @@ If you are losing time to repetitive admin, inconsistent follow-up, disconnected
 
 **CompanyConnect.Tech** is led by [Lloyd Lew](https://github.com/Lloyd-Lew), a monday.com partner and business systems designer. Based in Johannesburg, South Africa and Austin, Texas; serving clients worldwide.
 
-*This repository intentionally contains no customer configurations, credentials, private implementation detail, or confidential operating data.*
+*This repository intentionally contains no customer configurations, credentials, private implementation detail, or confidential operating data. Read the [public portfolio policy](docs/public-portfolio-policy.md), [support guidance](SUPPORT.md), and [security policy](SECURITY.md) before sharing material or reporting a concern.*
