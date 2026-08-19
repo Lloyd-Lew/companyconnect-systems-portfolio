@@ -80,6 +80,12 @@ The [Decision-Ready Discovery Guide](docs/decision-ready-discovery.md) helps a p
 [**Prepare for a decision-ready conversation →**](docs/decision-ready-discovery.md)
 [**Use the Referral Partner Kit →**](docs/referral-partner-kit.md)
 
+## Align a buying group before scoping work
+
+The [Implementation Readiness and Evaluation Pack](docs/implementation-readiness-evaluation-pack.md) gives business, operations, finance, and technical stakeholders a shared way to assess the operational problem, systems, ownership, risk, evidence, and engagement route before they request a proposal or technical review.
+
+[**Open the Implementation Readiness and Evaluation Pack →**](docs/implementation-readiness-evaluation-pack.md)
+
 ## Engineering credibility, without overclaiming
 
 The [CompanyConnect Operations Blueprint](https://github.com/Lloyd-Lew/companyconnect-operations-blueprint) is the flagship technical proof layer: a runnable, client-safe TypeScript reference system for synthetic lead intake, qualification, CRM-style opportunity, quote, approval, onboarding, operations, invoice trigger, support disposition, KPI snapshots, and structured audit events. It demonstrates idempotency, lifecycle controls, retry-ready failure handling, human escalation, API contracts, tests, CI, CodeQL, dependency controls, and explicit production limitations without exposing client systems.
