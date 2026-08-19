@@ -73,6 +73,13 @@ The [Sales Team Share Guide](docs/sales-team-share-guide.md) matches a prospect�
 
 [**Use the Sales Team Share Guide →**](docs/sales-team-share-guide.md)
 
+## Move a qualified conversation forward
+
+The [Decision-Ready Discovery Guide](docs/decision-ready-discovery.md) helps a prospect arrive with a clear operational question and identify the responsible first route. The [Referral Partner Kit](docs/referral-partner-kit.md) gives introducers an accurate way to recognise fit, share relevant proof, and make a useful warm introduction without exposing confidential information.
+
+[**Prepare for a decision-ready conversation →**](docs/decision-ready-discovery.md)
+[**Use the Referral Partner Kit →**](docs/referral-partner-kit.md)
+
 ## Engineering credibility, without overclaiming
 
 The [CompanyConnect Operations Blueprint](https://github.com/Lloyd-Lew/companyconnect-operations-blueprint) is the flagship technical proof layer: a runnable, client-safe TypeScript reference system for synthetic lead intake, qualification, CRM-style opportunity, quote, approval, onboarding, operations, invoice trigger, support disposition, KPI snapshots, and structured audit events. It demonstrates idempotency, lifecycle controls, retry-ready failure handling, human escalation, API contracts, tests, CI, CodeQL, dependency controls, and explicit production limitations without exposing client systems.
@@ -117,8 +124,8 @@ We regularly design systems for professional services, real estate, construction
 
 If you are losing time to repetitive admin, inconsistent follow-up, disconnected tools, or reporting uncertainty, book a free strategy call. We will identify the problem worth solving first and recommend whether a focused build, a larger system, or an audit is the right next step.
 
-[**Book a free strategy call →**](https://calendar.app.google/4SoivAXFkCpeQLVw5)  
-[**Explore services →**](https://companyconnect.tech/services-hub/)  
+[**Book a free strategy call →**](https://calendar.app.google/4SoivAXFkCpeQLVw5)
+[**Explore services →**](https://companyconnect.tech/services-hub/)
 [**View case-study themes →**](https://companyconnect.tech/work/)
 
 ---
