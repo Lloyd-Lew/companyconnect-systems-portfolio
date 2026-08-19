@@ -86,6 +86,12 @@ The [Implementation Readiness and Evaluation Pack](docs/implementation-readiness
 
 [**Open the Implementation Readiness and Evaluation Pack →**](docs/implementation-readiness-evaluation-pack.md)
 
+## Give an internal champion a concise proof route
+
+The [Internal Champion Decision Brief](docs/internal-champion-decision-brief.md) is a forwardable, client-safe summary for a stakeholder who needs to explain the operating problem, public evidence, engagement routes, and responsible next step to colleagues before a discovery conversation.
+
+[**Share the Internal Champion Decision Brief →**](docs/internal-champion-decision-brief.md)
+
 ## Engineering credibility, without overclaiming
 
 The [CompanyConnect Operations Blueprint](https://github.com/Lloyd-Lew/companyconnect-operations-blueprint) is the flagship technical proof layer: a runnable, client-safe TypeScript reference system for synthetic lead intake, qualification, CRM-style opportunity, quote, approval, onboarding, operations, invoice trigger, support disposition, KPI snapshots, and structured audit events. It demonstrates idempotency, lifecycle controls, retry-ready failure handling, human escalation, API contracts, tests, CI, CodeQL, dependency controls, and explicit production limitations without exposing client systems.
