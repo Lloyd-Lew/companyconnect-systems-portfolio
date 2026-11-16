@@ -21,6 +21,19 @@ For accurate contact details and service enquiries, use the information publishe
 
 Projects outside Johannesburg are normally delivered remotely, with on-site work agreed during scoping. Published contact and service details should be checked against the official website if third-party directories show older information.
 
+## Choose a relevant CompanyConnect service
+
+These are existing service pages, not claims of additional offices or guaranteed results:
+
+| Your immediate need | Best starting point |
+| --- | --- |
+| **CRM implementation and migration**: define pipelines, ownership, data quality and the handoff into delivery | [CRM implementation services](https://companyconnect.tech/crm-implementation/) |
+| **monday.com CRM consulting**: configure a practical sales process and connect it to operational work | [monday.com consulting and CRM](https://companyconnect.tech/monday-com-consulting/) |
+| **Workflow automation**: replace repetitive manual handoffs with tested, observable automation | [Workflow automation services](https://companyconnect.tech/workflow-automation/) |
+| **Johannesburg and Gauteng businesses**: discuss a local CRM, systems integration or automation project | [Johannesburg CRM and automation](https://companyconnect.tech/locations/johannesburg/) |
+
+CompanyConnect also works remotely with organisations elsewhere in South Africa and internationally. The [national service-area overview](https://companyconnect.tech/locations/) explains what local and remote delivery actually mean.
+
 ## The operational problems we solve
 
 CompanyConnect.Tech helps service businesses replace lost leads, fragmented handoffs, manual data work, and unclear reporting with systems their teams can actually use. We work across **CRM implementation, workflow automation, integrations, dashboards, and practical AI automation**—from a tightly scoped improvement to a multi-team operating system.
