@@ -132,6 +132,7 @@ The [Capability Map](docs/capability-map.md) links each public capability statem
 [**Inspect the Runnable Technical Demonstrator →**](https://github.com/Lloyd-Lew/lead-to-quote-automation-demo)
 
 [**Review the Engineering Proof Index →**](docs/engineering-proof-index.md)
+[**Examine client-reported CRM delivery evidence →**](docs/client-reported-crm-implementation-evidence.md)
 
 ## How we work
 
