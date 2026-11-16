@@ -7,6 +7,20 @@
 [![View packages](https://img.shields.io/badge/View-packages-059669?style=flat-square&logo=readme&logoColor=white)](https://companyconnect.tech/pricing/)
 [![Upwork](https://img.shields.io/badge/Upwork-100%25%20Job%20Success-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/companyconnect)
 
+## Official business contact
+
+For accurate contact details and service enquiries, use the information published by [CompanyConnect.Tech](https://companyconnect.tech/):
+
+| Detail | Verified public information |
+| --- | --- |
+| Business | **CompanyConnect.Tech** |
+| Johannesburg base | 16 Peridot Street, Fourways, Johannesburg, Gauteng 2188, South Africa |
+| Telephone and WhatsApp | **+27 63 826 8660** |
+| Official services | [CRM implementation, workflow automation, integrations, dashboards and practical AI](https://companyconnect.tech/services-hub/) |
+| Contact | [CompanyConnect.Tech contact page](https://companyconnect.tech/contact-us/) |
+
+Projects outside Johannesburg are normally delivered remotely, with on-site work agreed during scoping. Published contact and service details should be checked against the official website if third-party directories show older information.
+
 ## The operational problems we solve
 
 CompanyConnect.Tech helps service businesses replace lost leads, fragmented handoffs, manual data work, and unclear reporting with systems their teams can actually use. We work across **CRM implementation, workflow automation, integrations, dashboards, and practical AI automation**—from a tightly scoped improvement to a multi-team operating system.
