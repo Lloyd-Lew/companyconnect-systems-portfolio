@@ -17,6 +17,7 @@ For accurate contact details and service enquiries, use the information publishe
 | Johannesburg base | 16 Peridot Street, Fourways, Johannesburg, Gauteng 2188, South Africa |
 | Telephone and WhatsApp | **+27 63 826 8660** |
 | Official services | [CRM implementation, workflow automation, integrations, dashboards and practical AI](https://companyconnect.tech/services-hub/) |
+| Official Instagram profile | [CompanyConnect.Tech on Instagram (@companyconnect.tech_)](https://www.instagram.com/companyconnect.tech_/) |
 | Contact | [CompanyConnect.Tech contact page](https://companyconnect.tech/contact-us/) |
 
 Projects outside Johannesburg are normally delivered remotely, with on-site work agreed during scoping. Published contact and service details should be checked against the official website if third-party directories show older information.
