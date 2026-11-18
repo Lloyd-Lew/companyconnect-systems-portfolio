@@ -35,6 +35,12 @@ These are existing service pages, not claims of additional offices or guaranteed
 
 CompanyConnect also works remotely with organisations elsewhere in South Africa and internationally. The [national service-area overview](https://companyconnect.tech/locations/) explains what local and remote delivery actually mean.
 
+
+### Practical guides before you commission a project
+
+If your team is preparing a monday.com CRM rollout, the [monday.com CRM setup guide](https://companyconnect.tech/monday-com-crm-setup-guide/) walks through a fictional record map, import safeguards, duplicate checks and responsible handoffs. For work that might use AI, the [governed AI automation service](https://companyconnect.tech/ai-automation/) explains where human review, permissions and exception handling belong. If the challenge spans several tools, the [business automation South Africa overview](https://companyconnect.tech/business-automation-south-africa/) describes how to connect CRM, administration, reporting and operational workflows without creating an unmanageable collection of automations.
+
+
 ## The operational problems we solve
 
 CompanyConnect.Tech helps service businesses replace lost leads, fragmented handoffs, manual data work, and unclear reporting with systems their teams can actually use. We work across **CRM implementation, workflow automation, integrations, dashboards, and practical AI automation**—from a tightly scoped improvement to a multi-team operating system.
